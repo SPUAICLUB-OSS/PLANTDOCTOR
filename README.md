@@ -123,6 +123,6 @@ To customize the visual identity of exported documents:
 ### Designed and Engineered by SPU AI CLUB
 *Innovation for a Greener Future.*
 
-[Website](https://www.spuhr.tech) • [GitHub](https://github.com/spuaiclub-oss)
+[Website](https://spuhr.tech) • [GitHub](https://github.com/spuaiclub-oss)
 
 </div>
