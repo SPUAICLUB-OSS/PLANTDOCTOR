@@ -95,8 +95,8 @@ To customize the visual identity of exported documents:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/leaf-doctor.git](https://github.com/your-username/leaf-doctor.git)
-    cd leaf-doctor
+    git clone [https://github.com/SPUAICLUB-OSS/PLANTDOCTOR.git](https://github.com/SPUAICLUB-OSS/PLANTDOCTOR.git)
+    cd PLANTDOCTOR
     ```
 
 2.  **Resolve Dependencies**
@@ -123,6 +123,6 @@ To customize the visual identity of exported documents:
 ### Designed and Engineered by SPU AI CLUB
 *Innovation for a Greener Future.*
 
-[Website](https://www.spuaiclub.com) • [GitHub](https://github.com/spuaiclub)
+[Website](https://www.spuhr.tech) • [GitHub](https://github.com/spuaiclub-oss)
 
 </div>
